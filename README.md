@@ -1,13 +1,10 @@
-# Miside Mita
-## Overview of MiSide
+## MiSide Mita
+Mita serves as the protagonist and central figure in MiSide, with various incarnations that reflect her complex personality. Players interact with these different versions throughout their journey, each offering unique experiences and emotional depth.
 
+## Overview of MiSide
 **MiSide** is an engaging psychological horror adventure game that immerses players in a surreal narrative centered around the character Mita. The game features multiple versions of Mita, each representing different facets of her personality, which enhances the storytelling and gameplay experience. Below is a detailed overview of the key characters and their roles within the game.
 
 [For more information, feel free to visit our MiSide Wiki site!](https://miside.wiki)
-
-## Main Character in MiSide: Mita
-
-Mita serves as the protagonist and central figure in MiSide, with various incarnations that reflect her complex personality. Players interact with these different versions throughout their journey, each offering unique experiences and emotional depth.
 
 ## Variants of Mita
 
