@@ -5,7 +5,7 @@
 
 [For more information, feel free to visit our MiSide Wiki site!](https://miside.wiki)
 
-## Main Character in Miside: Mita
+## Main Character in MiSide: Mita
 
 Mita serves as the protagonist and central figure in MiSide, with various incarnations that reflect her complex personality. Players interact with these different versions throughout their journey, each offering unique experiences and emotional depth.
 
